@@ -3,9 +3,11 @@
 A dark-themed, interactive notification dropdown component built with pure HTML, CSS, and vanilla JavaScript — no libraries, no frameworks.
 
 How the icon looks like:
+
 ![Bell Badge](Bell-Badge.png)
 
 How the bar looks like:
+
 ![Notification Dropdown](Notification-Dropdown.png)
 
 ---
